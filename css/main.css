@@ -421,7 +421,7 @@ html {
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 50px;
+  margin-bottom: 1%;
 }
 
 .contact {
@@ -439,7 +439,7 @@ html {
   color: #D9A689;
   font-size: 70px;
   font-size: 35px;
-  margin-top: 60px;
+  margin-top: 2%;
   border: 2px;
   border-style: solid;
   border-color: #D9A689;
