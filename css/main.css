@@ -87,6 +87,10 @@ h2 {
   z-index: 100;
 
 }
+.intro {
+  width: 100%;
+  height: auto;
+}
 .intro h4 {
   color: #73723a;
   font-size: 35px;
@@ -135,7 +139,7 @@ h2 {
 
 #largebox {
   width: 100%;
-  height: 100%;
+  height: auto;
   background-color: #B1C0A1;
   position: relative;
   overflow: hidden;
@@ -160,7 +164,6 @@ h2 {
   text-align: center;
   font-weight: bold;
   display: block;
-  position: relative;
   top: 15px;
   letter-spacing: .1em;
 
