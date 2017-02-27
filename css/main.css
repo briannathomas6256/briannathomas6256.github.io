@@ -138,7 +138,7 @@ h2 {
   height: 570px;
   background-color: #B1C0A1;
   position: relative;
-  overflow: initial;
+  overflow: scroll;
   z-index: 50;
   margin-top: 1px;
   padding-top: 10px;
