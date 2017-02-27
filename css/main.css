@@ -133,13 +133,13 @@ h2 {
   color: #404041;
   margin-left: 240px;
   margin-right: 240px;
-  width: 800px;
+  width: 100%;
   padding-top: 35px;
 }
 
 #largebox {
   width: 100%;
-  height: auto;
+  height: 80%;
   background-color: #B1C0A1;
   position: relative;
   overflow: hidden;
