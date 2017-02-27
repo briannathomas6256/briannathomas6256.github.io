@@ -135,10 +135,10 @@ h2 {
 
 #largebox {
   width: 100%;
-  height: 570px;
+  height: 100%;
   background-color: #B1C0A1;
   position: relative;
-  overflow: scroll;
+  overflow: hidden;
   z-index: 50;
   margin-top: 1px;
   padding-top: 10px;
