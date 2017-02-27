@@ -180,19 +180,19 @@ h2 {
 
 #box1 {
   height: 300px;
-  width: 17%;
+  width: 17.5%;
   position: relative;
   float: left;
   padding-top: 20px;
-  margin-left: 8%;
+  margin-left: 5%;
 }
 
 #box2 {
   height: 300px;
-  width: 17%;
+  width: 17.5%;
   position: relative;
   float: left;
-  margin-left: 5.5%;
+  margin-left: 5%;
   padding-top: 7px;
   margin-right: .5%;
 
@@ -202,10 +202,10 @@ h2 {
 
 #box3 {
   height: 300px;
-  width: 17%;
+  width: 17.5%;
   position: relative;
   float: left;
-  margin-left: 5.5%;
+  margin-left: 5%;
   padding-top: 15px;
   margin-right: .5%;
 
@@ -213,10 +213,10 @@ h2 {
 
 #box4 {
   height: 300px;
-  width: 17%;
+  width: 17.5%;
   position: relative;
   float: left;
-  margin-left: 5.5%;
+  margin-left: 5%;
   padding-top: 20px;
 
 }
