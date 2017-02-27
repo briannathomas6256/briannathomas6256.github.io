@@ -16,7 +16,7 @@ body {
 
 
 .jumbotron {
-  background-image: url(briannathomas6256.github.io/css/Sunflower2.jpg);
+  background-image: url("briannathomas6256.github.io/css/Sunflower2.jpg");
   background-size: contain;
   background-position: center;
   margin: 0 !important;
@@ -236,7 +236,7 @@ h2 {
 #skills {
   width: 100%;
   height: 420px;
-  background-image: url(briannathomas6256.github.io/css/plant6.jpg);
+  background-image: url("briannathomas6256.github.io/css/plant6.jpg");
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
