@@ -126,7 +126,7 @@ h2 {
 
 #largebox {
   width: 100%;
-  height: 56%;
+  height: auto;
   background-color: #B1C0A1;
   position: relative;
   overflow: hidden;
