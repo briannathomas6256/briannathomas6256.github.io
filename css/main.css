@@ -134,6 +134,7 @@ h2 {
   margin-top: 1px;
   padding-top: 10px;
   display: block;
+  padding-bottom: 10px;
 
 }
 #largebox h6 {
@@ -178,7 +179,7 @@ h2 {
 
 
 #box1 {
-  height: 300px;
+  height: 400px;
   width: 17.5%;
   position: relative;
   float: left;
@@ -187,7 +188,7 @@ h2 {
 }
 
 #box2 {
-  height: 300px;
+  height: 400px;
   width: 17.5%;
   position: relative;
   float: left;
@@ -200,7 +201,7 @@ h2 {
 
 
 #box3 {
-  height: 300px;
+  height: 400px;
   width: 17.5%;
   position: relative;
   float: left;
@@ -211,7 +212,7 @@ h2 {
 }
 
 #box4 {
-  height: 300px;
+  height: 400px;
   width: 17.5%;
   position: relative;
   float: left;
