@@ -17,13 +17,12 @@ body {
 
 .jumbotron {
   background-image: url(Sunflower2.jpg);
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   margin: 0 !important;
   padding: 0 !important;
   display:block;
   background-attachment: fixed;
-  height: 700px;
   background-repeat: no-repeat;
   z-index: 0;
   position: relative;
