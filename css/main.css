@@ -210,10 +210,12 @@ h2 {
   position: relative;
   float: left;
   margin-left: 5%;
-  padding-top: 15px;
+  padding-top: 16px;
   margin-right: .5%;
 
 }
+#box3 p{
+  padding-top: 50px;
 
 #box4 {
   height: auto;
