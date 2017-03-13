@@ -17,7 +17,7 @@ body {
 
 .jumbotron {
   background-image: url(Sunflower2.jpg);
-  background-size: contain;
+  background-size: cover;
   background-position: center;
   margin: 0 !important;
   padding: 0 !important;
