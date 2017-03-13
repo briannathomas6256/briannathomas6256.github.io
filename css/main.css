@@ -24,7 +24,7 @@ body {
   margin: 0 !important;
   padding: 0 !important;
   display:block;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-repeat: no-repeat;
   z-index: 0;
   position: relative;
