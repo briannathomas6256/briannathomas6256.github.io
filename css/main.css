@@ -33,9 +33,9 @@ body {
 h1 {
   color: #FFF;
   font-family: 'Elsie', cursive;
-  font-size: 190px;
+  font-size: 250px;
   font-weight: 100;
-  letter-spacing: 10px;
+  letter-spacing: 20px;
   text-align: center;
   text-transform: uppercase;
   position: relative;
@@ -44,7 +44,7 @@ h1 {
 h2 {
   color: #FFF;
   font-family: 'Didot', sans-serif;
-  font-size: 80px;
+  font-size: 40px;
   float: none;
   text-transform: uppercase;
   position: relative;
