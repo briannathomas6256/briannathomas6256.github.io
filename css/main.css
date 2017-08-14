@@ -358,14 +358,14 @@ margin-top: 40px;
 
 [id="tag:photo"]:target ~ [data-tag~="photo"], [id="tag:ad"]:target ~ [data-tag~="ad"], [id="tag:web"]:target ~ [data-tag~="web"], [id="tag:graphic"]:target ~ [data-tag~="graphic"],
 [id="tag:draw"]:target ~ [data-tag~="draw"], [id="tag:product"]:target ~ [data-tag~="product"],
-[id="tag:promo"]:target ~ [data-tag~="promo"] {
+[id="tag:promo"]:target ~ [data-tag~="promo"], [id="tag:type"]:target ~ [data-tag~="type"] {
   opacity: 1;
   visibility: visible;
 }
 
 [id="tag:photo"]:target ~ .c-filter__links [href="#tag:photo"],
 [id="tag:ad"]:target ~ .c-filter__links [href="#tag:ad"], [id="tag:web"]:target ~ .c-filter__links [href="#tag:web"], [id="tag:graphic"]:target ~ .c-filter__links [href="#tag:graphic"], [id="tag:draw"]:target ~ .c-filter__links [href="#tag:draw"],
-[id="tag:product"]:target ~ .c-filter__links [href="#tag:product"], [id="tag:promo"]:target ~ .c-filter__links [href="#tag:promo"] {
+[id="tag:product"]:target ~ .c-filter__links [href="#tag:product"], [id="tag:promo"]:target ~ .c-filter__links [href="#tag:promo"], [id="tag:type"]:target ~ .c-filter__links [href="#tag:type"] {
   background-color: #fafafa;
   pointer-events: none;
 }
