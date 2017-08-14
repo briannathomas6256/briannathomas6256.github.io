@@ -304,7 +304,7 @@ margin-top: 40px;
    * awkward page jumps when filtering.
    */
 .c-filter__target {
-  position: fixed;
+  position: absolute;
 }
 
 .c-filter__links {
